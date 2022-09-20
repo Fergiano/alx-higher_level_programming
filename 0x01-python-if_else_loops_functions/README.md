@@ -1,1 +1,1 @@
-This is a Readme for Python if/else, loops and functions
+This is a Readme for Python if/else, loops and functions.
