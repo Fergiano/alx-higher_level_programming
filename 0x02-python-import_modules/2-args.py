@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-if _name_ == "__main__":
+from sys import argv
+
+if __name__ == "__main__":
     arglen = len(argv) - 1
     if arglen == 0:
         print('0 arguments.')
