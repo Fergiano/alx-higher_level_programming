@@ -10,6 +10,6 @@
 int main(void)
 {
 	listint_t *head;
-
+	head = head;
 	return (0);
 }
