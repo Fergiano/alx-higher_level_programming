@@ -1,1 +1,2 @@
-this is readme about data structure
+this is readme about data structures
+
